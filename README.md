@@ -1,6 +1,6 @@
 # Портфолио
 
-**[DEMO](https://github.io/yandex-shri-minsk-2019-task-1/)**
+**[DEMO](https://kseniabelyavce.github.io/yandex-shri-minsk-2019-task-1/)**
 
 Создайте сайт-портфолио: расскажите о себе, своих работах и ожиданиях от Школы. Сайт должен максимально соответствовать предложенному макету (ссылки на макеты: [1000px](https://yandex-shri-minsk-2019.github.io/task-1/#artboard0), [600px](https://yandex-shri-minsk-2019.github.io/task-1/#artboard1), [320px](https://yandex-shri-minsk-2019.github.io/task-1/#artboard3), [спецификация](https://yandex-shri-minsk-2019.github.io/task-1/#artboard2)). Нас интересует только вёрстка, поэтому JavaScript просьба не использовать.
 
