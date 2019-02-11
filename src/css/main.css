@@ -184,14 +184,13 @@ input {
   color: #000000;
   line-height: 20px;
   width: 520px;
-  /* margin: 12px 0 20px; */
   display: none;
 }
 
 input:checked + label {
   color: #000000;
-  /* margin-bottom: 6px; */
 }
+
 input:checked ~ .ex_info {
   display: block;
   margin-bottom: 20px;
@@ -289,8 +288,6 @@ input:checked ~ .ex_icon:after {
 
 .c_footer {
   display: grid;
-  grid-template-rows: auto;
-  grid-template-columns: auto;
 }
 
 .c_nav {
@@ -330,7 +327,6 @@ input:checked ~ .ex_icon:after {
 @media screen and (min-width: 1000px) {
   .c_info {
     grid-row: 1;
-    /* grid-column: 1; */
   }
 }
 
