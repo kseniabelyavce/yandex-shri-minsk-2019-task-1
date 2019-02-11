@@ -133,6 +133,13 @@ body {
   margin-top: 4px;
 }
 
+
+@media screen and (width: 320px) {
+  .ex_icon[for="up-to-date"] {
+   margin-top: -20px;
+  }
+}
+
 .ex_icon:after,
 .ex_icon:before {
   content: "";
@@ -320,13 +327,14 @@ input:checked ~ .ex_icon:after {
   font-size: 14px;
   color: #ffffff;
   line-height: 20px;
-  text-align: left;
+  text-align: center;
   width: 520px;
 }
 
 @media screen and (min-width: 1000px) {
   .c_info {
     grid-row: 1;
+    text-align: left;
   }
 }
 
